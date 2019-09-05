@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: black;
+    text-decoration: underline overline black; 
+}
+.nav{
+    text-align: center;
+}
+body{
+    background-attachment: fixed;
+    background-color: salmon;
+    background-image: url("./background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
